@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CatChatbrr
+- 👀 I’m interested in minecraft mods
+- 🌱 I wan't to learn java / lua
